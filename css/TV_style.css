@@ -1,0 +1,14 @@
+.product{
+    border-bottom: 1px solid #999;
+    border-top: 1px solid #999;
+    width: 730px;
+    height: 150px;
+    margin-top: 5px;
+}
+
+.product > p > img{
+    height: 140px;
+    width: auto;
+    margin-left: 5px;
+    margin-top: -9px;
+}

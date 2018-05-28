@@ -1,0 +1,135 @@
+.productList {
+    display: flex;
+}
+
+.phoneProduct{
+     height: 305px;
+     width: 212px;
+     /*border: 1px solid black;*/
+     margin-left: 15px;
+ }
+
+.phoneProduct > p{
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.phoneProduct > button{
+    margin-top: -5px;
+    margin-left: 2px;
+    width: 110px;
+    height: 30px;
+}
+
+.phoneProduct > img{
+    height: 206px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.laptopProduct{
+    height: 250px;
+    width: 212px;
+    /*border: 1px solid black;*/
+    margin-left: 15px;
+}
+
+.laptopProduct > p{
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.laptopProduct > button{
+    margin-top: -5px;
+    margin-left: 2px;
+    width: 110px;
+    height: 30px;
+}
+
+.laptopProduct > img{
+    height: 150px;
+    width: auto;
+    max-width: 212px;
+    display: block;
+    margin: 3px auto 0;
+}
+
+.tabletProduct{
+    height: 305px;
+    width: 212px;
+    /*border: 1px solid black;*/
+    margin-left: 15px;
+}
+
+.tabletProduct > p{
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.tabletProduct > button{
+    margin-top: -5px;
+    margin-left: 2px;
+    width: 110px;
+    height: 30px;
+}
+
+.tabletProduct > img{
+    height: 206px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.TVproduct{
+    height: 250px;
+    width: 212px;
+    /*border: 1px solid black;*/
+    margin-left: 15px;
+}
+
+.TVproduct > p{
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.TVproduct > button{
+    margin-top: -5px;
+    margin-left: 2px;
+    width: 110px;
+    height: 30px;
+}
+
+.TVproduct > img{
+    height: 150px;
+    width: auto;
+    max-width: 212px;
+    display: block;
+    margin: 3px auto 0;
+}
+
+.Ebookproduct{
+    height: 305px;
+    width: 212px;
+    /*border: 1px solid black;*/
+    margin-left: 15px;
+}
+
+.Ebookproduct > p{
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+.Ebookproduct > button{
+    margin-top: -5px;
+    margin-left: 2px;
+    width: 110px;
+    height: 30px;
+}
+
+.Ebookproduct > img{
+    height: 206px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}

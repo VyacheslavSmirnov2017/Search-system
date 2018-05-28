@@ -1,0 +1,13 @@
+#content > div{
+    width: 100%;
+    border-bottom: 1px solid #E8E8E8;
+}
+
+.item>img{
+    vertical-align: middle;
+    background-color: orangered;
+    width: 90px;
+    height: auto;
+    border-radius: 45px;
+    margin-top: 10px;
+}

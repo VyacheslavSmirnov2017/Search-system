@@ -1,0 +1,42 @@
+label {
+    float:left;
+    padding-right:10px;
+}
+.field {
+    clear:both;
+    text-align:right;
+    line-height:25px;
+}
+
+#input_data{
+    width: 430px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#input_data > div > input{
+    height: 25px;
+    width: 250px;
+}
+
+#input_data >  input{
+    height: 50px;
+    width: 200px;
+    float: right;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: #FF5300;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+#input_data > div{
+    margin-top: 10px;
+}
+
+
+
+
+

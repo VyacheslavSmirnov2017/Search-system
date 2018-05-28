@@ -1,0 +1,56 @@
+#content > div{
+    width: 100%;
+    border-bottom: 1px solid #E8E8E8;
+}
+
+li{
+    margin-top: 5px;
+}
+
+#item1{
+    background: url('../images/velcom.png') no-repeat 0 0;
+    padding-left: 25px;
+}
+
+#item2{
+    background: url('../images/mts.png') no-repeat 0 0;
+    padding-left: 25px;
+    background-size: 15px auto;
+}
+
+#item3{
+    background: url('../images/life.png') no-repeat 0 0;
+    padding-left: 25px;
+    background-size: 18px auto;
+}
+
+#item4{
+    background: url('../images/tel.png') no-repeat 0 0;
+    padding-left: 25px;
+    background-size: 18px auto;
+}
+
+#item5{
+     background: url('../images/skype.png') no-repeat 0 0;
+     padding-left: 25px;
+     background-size: 18px auto;
+}
+
+#item6{
+    background: url('../images/viber.png') no-repeat 0 0;
+    padding-left: 25px;
+    background-size: 18px auto;
+}
+
+#requisites>img{
+    vertical-align: middle;
+    background-color: orangered;
+    width: 90px;
+    height: auto;
+    border-radius: 45px;
+    margin-top: 10px;
+}
+
+ol{
+    margin-left: 20px;
+}
